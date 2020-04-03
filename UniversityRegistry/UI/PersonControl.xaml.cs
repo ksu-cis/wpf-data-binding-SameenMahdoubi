@@ -22,5 +22,7 @@ namespace UniversityRegistry.UI
         {
             InitializeComponent();
         }
+
+        
     }
 }
